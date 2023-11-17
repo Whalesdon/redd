@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-custom-gradient {
+  background: linear-gradient(139.73deg, #3d2a54, #313d5c);
+  /* You can adjust the angle and colors as needed. */
+
+   /* Set the desired height */
+}
+
+.bg-custom-gradient2 {
+  background: linear-gradient(139.73deg, #232344, #181527);
+  /* Set the desired height */
+}
+
+
+.bg-custom-gradient3 {
+  background: linear-gradient(90deg, transparent 0%, rgb(35, 35, 68) 100%);
+  /* Set the desired height */
+}
